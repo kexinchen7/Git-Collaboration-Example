@@ -1,3 +1,7 @@
 Git collaboration example
+<<<<<<< HEAD
+
 
 I am Partner 2!
+Second line by Partner1-Kexin
+>>>>>>> 788068d1bfa26781a22bfe11187b3f64c7320cae
